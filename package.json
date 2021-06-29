@@ -34,6 +34,9 @@
     "ios",
     "android"
   ],
+  "repository": "https://github.com/alikrodrigues/nexti-mobile-ui",
+  "author": "Alik Rodrigues <alik@nexti.com> (https://github.com/alikrodrigues)",
+  "license": "MIT",
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
